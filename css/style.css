@@ -1,0 +1,40 @@
+body{
+    background-color: #FFFBF0;
+}
+.font-size{
+    font-size: 60px ;
+}
+.font-design{
+    color: #FABE4C;
+}
+.blue-colors{
+    color: #363958;
+}
+p{
+    color: #3E3E3E;
+    font-size: 16px;
+}
+.btn-button{
+    text-decoration: none;
+    color: white;
+    padding: 15px 25px;
+    font-weight: 700;
+    background-image: linear-gradient(45deg,#A4BC46,#85A019);
+    border-radius: 10px;
+}
+.price-items{
+    color: #FABE4C;
+    font-weight: 700;
+    font-size: 35px;
+}
+.card-text-head-colors{
+    color: #363958;
+    font-weight: 700;
+}
+.jacket-card{
+    border: 0;
+}
+.jacket-card-footer{
+    background-color: white;
+    border: 0;
+}
